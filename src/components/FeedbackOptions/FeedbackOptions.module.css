@@ -1,0 +1,32 @@
+
+.list {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+.button {
+    min-width: 130px;
+    position: relative;
+    display: inline-block;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    margin: 0 25px;
+    font-size: 16px;
+    
+    border-radius: 4px ;
+    cursor: pointer;
+    background-color: rgba(244, 244, 183, 0.301);
+
+    
+}
+.button:hover{
+    background-color:rgba(0, 128, 0, 0.355);
+}
+
+
+
+
